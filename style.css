@@ -1,0 +1,27 @@
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+body {
+    background-color: #ADD8E6;
+    font-family: 'Gill Sans';
+    text-decoration: none;
+}
+
+h1,
+h2,
+p,
+ul,
+td {
+    color: #943d24
+}
+
+hr {
+    color: white;
+    Height: 2px
+}
